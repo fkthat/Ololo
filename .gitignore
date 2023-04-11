@@ -1,0 +1,5 @@
+bin
+obj
+.idea
+/.config/dotnet-tools.json
+/Folder.DotSettings.user
